@@ -6,3 +6,5 @@
  * and open the template in the editor.
  */
 //this comment cannot be delete
+
+echo "Hello";
