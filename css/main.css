@@ -7,4 +7,8 @@ and open the template in the editor.
     Created on : Jun 22, 2016, 9:36:32 PM
     Author     : Chinthaka
 */
-
+.needsToShipDate{
+    height: 20px;
+    width: 10px;
+    background-color: #0000ff;
+}
