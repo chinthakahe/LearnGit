@@ -12,3 +12,7 @@ and open the template in the editor.
     width: 10px;
     background-color: #0000ff;
 }
+.printedDate{
+    text-align: center;
+    font-style: italic;
+}
